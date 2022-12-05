@@ -25,7 +25,7 @@ const array = [
     max_price: 18.22,
     mean_price: 12.58,
     quantity: 25,
-    created_at: 153598253,
+    created_at: 15359825А3,
     updated_at: 1568073728,
   },
   {
