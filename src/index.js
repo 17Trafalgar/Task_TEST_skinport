@@ -1,6 +1,5 @@
-//import axios from 'axios';
 import axios from 'axios';
-import fetch from 'node-fetch';
+//import fetch from 'node-fetch';
 
 async function getData(tradable = true) {
   const url = 'https://api.skinport.com/v1/items/?' + new URLSearchParams({ tradable });
